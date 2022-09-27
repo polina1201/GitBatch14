@@ -1,0 +1,11 @@
+Git Class 03
+
+Task:
+	Track your project using git
+
+	1. Decide where you will create the repository (GitClass03B14)
+	2. Navigate the terminal to the right location (C:\Users\polin\eclipse-workspace\GitClass03B14 (R click on GitClass03B14))
+	3. Initialize the empty git repo -> git init
+	4. git status -> untracked files --red color
+	5. Add all the files in the staging area (so that git starts tracking them) -> git add . (space after "add" and before ".")
+	6. Add all the files in the repository -> git commit -m "commit message"
